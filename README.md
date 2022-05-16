@@ -145,4 +145,4 @@ This package come with the following translation for the vue-multiselect plugin.
 
 To translate validations use Laravel validation translations.
 
-Credits to: https://github.com/manmohanjit/nova-belongs-to-dependency
+Package is fork of: https://github.com/Benjacho/belongs-to-many-field-nova
